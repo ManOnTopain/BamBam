@@ -18,7 +18,6 @@ They also self-exposed themselfs in banners saying that they have prism killaura
 
 Their own gui is actually dogshit (same as ASStolfos) and whitelist can be cracked easily
 
-We need to get master removed from prism for skidding from it, if anyone who devs on prism sees this, you know what to do!
 
 ![UI](https://user-images.githubusercontent.com/121765166/211205645-dec5b841-c766-4315-8160-ff72616d5ad3.png)
 
