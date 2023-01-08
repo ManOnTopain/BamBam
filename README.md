@@ -12,7 +12,7 @@ Cola is as you guess it, skidded script made by broski(d) and Master (broskid's 
 
 ## PLEASE END THESE GUYS CARRIERS I SWEAR TO GOD
 
-Apparently they promote it saying it's better than prism but they actually skid from prism (Master has access to it)
+Apparently they promote it saying it's better than prism but it's not
 
 Their own gui is actually dogshit (same as ASStolfos) and whitelist can be cracked easily
 
