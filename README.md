@@ -6,11 +6,11 @@ Broskid also owns astolfo which was leaked in 2 days and after leak got discount
 
 Astolfo doesn't work anymore because of ui lib change
 
-# About Cola
+## About Cola
 
 Cola is as you guess it, skidded script made by broski(d) and Master (broskid's dick sucker) 
 
-# PLEASE END THESE GUYS CARRIERS I SWEAR TO GOD
+## PLEASE END THESE GUYS CARRIERS I SWEAR TO GOD
 
 Apparently they promote it saying it's better than prism but they actually skid from prism (Master has access to it)
 
@@ -20,6 +20,6 @@ Their own gui is actually dogshit (same as ASStolfos) and whitelist can be crack
 
 ![UI](https://user-images.githubusercontent.com/121765166/211205645-dec5b841-c766-4315-8160-ff72616d5ad3.png)
 
-# Leakers
+## Leakers
 
 Leaked by p2l, manmike and zeyhu
