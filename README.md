@@ -8,7 +8,7 @@ Astolfo doesn't work anymore because of ui lib change :trol:
 
 ## About Cola
 
-Cola is as you guess it, skidded script made by broski(d) and Master (broskid's dick sucker) 
+Cola is as you guess it, skidded script made by broski(d) 
 
 ## PLEASE END THESE GUYS CARRIERS I SWEAR TO GOD
 
