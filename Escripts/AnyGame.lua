@@ -2,27 +2,18 @@ local whitelisted = loadstring(game:HttpGet('https://raw.githubusercontent.com/N
 local Blacklisted = loadstring(game:HttpGet('https://raw.githubusercontent.com/Nebulaprivatewhitelistbypass/eee/main/OtherTable.lua'))()
 local hwid = game:GetService("RbxAnalyticsService"):GetClientId()
 local players = game:GetService("Players")
+
+
 local lplr = players.LocalPlayer
 local GuiL = shared.CoGuiLibrary
 local workspace = game.Workspace
 
 if game.ReplicatedStorage:FindFirstChild("TS") then
-    if hwid == whitelisted then
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/Nebulaprivatewhitelistbypass/eee/main/Escripts/bedwars.lua')()
-    end
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/ManOnTopain/eee/main/Escripts/bedwars.lua')()
 end
+  
 
-  
-  --[[
-  examples:
-  GuiL.Button("TabName", "Name", function()
-    --script here
-  end)
-]]--
-  
-if hwid == Blacklisted then
-    lplr:Kick("Your Blacklisted From Cola, Have a good day.")
-else
+
     
 local flyE = false
 GuiL.Button("Movement", "Fly", function()
@@ -34,4 +25,4 @@ GuiL.Button("Movement", "Fly", function()
         flyE = false
     end
 end)
-end
+
