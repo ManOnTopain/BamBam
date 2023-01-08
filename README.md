@@ -1,6 +1,6 @@
 # Cola Leak
 
-Cola is owned by Broski(d), skid which [p2l](https://www.youtube.com/watch?v=cstrMrYHeQI&ab_channel=pay2lose) exposed for shit
+Cola is owned by Broski(d), skid which [p2l](https://www.youtube.com/watch?v=cstrMrYHeQI&ab_channel=pay2lose) and [zeyhu](https://www.youtube.com/channel/UCgUjgDnW_1UPbpqJpH-_Djg) exposed for shit
 
 Broskid also owns astolfo which was leaked in 2 days and after leak got discountinued almost instantly.
 
