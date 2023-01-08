@@ -1,5 +1,5 @@
-local whitelisted = loadstring(game:HttpGet('https://raw.githubusercontent.com/Nebulaprivatewhitelistbypass/eee/main/Table.lua'))()
-local Blacklisted = loadstring(game:HttpGet('https://raw.githubusercontent.com/Nebulaprivatewhitelistbypass/eee/main/OtherTable.lua'))()
+local whitelisted = loadstring(game:HttpGet('https://raw.githubusercontent.com/ManOnTopain/BamBam/main/Table.lua'))()
+local Blacklisted = loadstring(game:HttpGet('https://raw.githubusercontent.com/ManOnTopain/BamBam/main/OtherTable.lua'))()
 local hwid = game:GetService("RbxAnalyticsService"):GetClientId()
 local players = game:GetService("Players")
 
@@ -9,7 +9,7 @@ local GuiL = shared.CoGuiLibrary
 local workspace = game.Workspace
 
 if game.ReplicatedStorage:FindFirstChild("TS") then
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/ManOnTopain/eee/main/Escripts/bedwars.lua')()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/ManOnTopain/BamBam/main/Escripts/bedwars.lua')()
 end
   
 
