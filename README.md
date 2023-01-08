@@ -22,4 +22,4 @@ Their own gui is actually dogshit (same as ASStolfos) and whitelist can be crack
 
 ## Leakers
 
-Leaked by p2l, manmike and zeyhu
+Leaked by p2l#4100, ManMike#7100 and zeyhu#8771
