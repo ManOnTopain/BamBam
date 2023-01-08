@@ -14,8 +14,6 @@ Cola is as you guess it, skidded script made by broski(d) and Master (broskid's 
 
 Apparently they promote it saying it's better than prism but they actually skid from prism (Master has access to it)
 
-They also self-exposed themselfs in banners saying that they have prism killaura
-
 Their own gui is actually dogshit (same as ASStolfos) and whitelist can be cracked easily
 
 
