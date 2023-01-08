@@ -4,7 +4,7 @@ Cola is owned by Broski(d), skid which [p2l](https://www.youtube.com/watch?v=cst
 
 Broskid also owns astolfo which was leaked in 2 days and after leak got discountinued almost instantly.
 
-Astolfo doesn't work anymore because of ui lib change
+Astolfo doesn't work anymore because of ui lib change :trol:
 
 ## About Cola
 
